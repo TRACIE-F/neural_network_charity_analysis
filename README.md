@@ -19,4 +19,4 @@ Compiling, Training, and Evaluating the Model
 
 ## Summary ##
 
-ummarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
